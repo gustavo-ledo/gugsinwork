@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do nomegusta(Gustavo .L)
+## Bem-vindo(a) ao perfil do nomegusta
 
  <div>
    <a href="https://github.com/gugsinwork">
