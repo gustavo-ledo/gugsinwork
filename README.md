@@ -3,9 +3,9 @@
   <ul>
     <li>💻 I've been working with: </li>
     <ul>
-      <li>Next🌐</li>
-      <li>Angular🅰️</li>
-      <li>Typescript/JS🗿</li>
+      <li>🌐 Next</li>
+      <li>🅰️ Angular</li>
+      <li>🗿 Typescript and Javascript</li>
     </ul>
     <li>🤷‍♂️ I work at Employer and am involved in both internal and external market projects, supporting front-end development</li>
     <li>📫 How to contact me: gustavo.ledo@gmail.com </li>
