@@ -1,13 +1,18 @@
-## Bem-vindo(a) ao perfil do nomegusta
-
- <div>
-   <a href="https://github.com/gugsinwork">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugsinwork&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugsinwork&layout=compact&langs_count=6&theme=tokyonight"/>
-
+<h1>Hi, My name is Gustavo 🤓 </h1>
+<div>
+  <ul>
+    <li>💻 I've been working with: </li>
+    <ul>
+      <li>Next js</li>
+      <li>Angular</li>
+      <li>Typescript and js</li>
+    </ul>
+    <li>🤷‍♂️ I work at Employer and am involved in both internal and external market projects, supporting front-end development</li>
+    <li>📫 How to contact me: gustavo.ledo@gmail.com </li>
+  </ul>  
 </div>
- <br>
-
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=gustavo-ledo&show_icons=true&theme=dracula"/>
  
 
 
