@@ -7,6 +7,7 @@
       <li>🅰️ Angular</li>
       <li>🗿 Typescript and Javascript</li>
     </ul>
+    <br />
     <li>🤷‍♂️ I work at Employer and am involved in both internal and external market projects, supporting front-end development</li>
     <li>📫 How to contact me: gustavo.ledo@gmail.com </li>
   </ul>  
