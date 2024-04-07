@@ -8,7 +8,7 @@
       <li>🗿 Typescript and Javascript</li>
     </ul>
     <br />
-    <li>🤷‍♂️ I work at Employer and am involved in both internal and external market projects, supporting front-end development</li>
+    <li>🤷‍♂️ I work at EmployerRH and am involved in both internal and external market projects, supporting front-end development</li>
     <li>📫 How to contact me: gustavoledosilv@gmail.com </li>
   </ul>  
 </div>
